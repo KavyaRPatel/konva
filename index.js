@@ -1,3 +1,6 @@
+import Konva from 'konva';
+
+
 const stage = new Konva.Stage({
     height: window.innerHeight,
     width: window.innerWidth,
